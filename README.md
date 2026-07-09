@@ -4,6 +4,7 @@ This project is a console-based CGPA (Cumulative Grade Point Average)  Calculato
 This project improved understanding of mathematical computation in 
 programming, array handling, and building practical academic tools 
 using structured C++ logic.
+
  **Features**
 - Input multiple subjects along with grades and credit hours
 - Automatic calculation of weighted CGPA based on entered data
